@@ -1,4 +1,4 @@
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZakirShaik?style=social"> &nbsp;&nbsp; <img alt="Zakir profile visitors | Count Views" src="https://komarev.com/ghpvc/?username=ZakirShaik&color=blue&style=flat" />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZakirShaik?style=social"> &nbsp;&nbsp; <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/t/ZakirShaik/ZakirShaik?style=social"> &nbsp;&nbsp; <img alt="Zakir profile visitors | Count Views" src="https://komarev.com/ghpvc/?username=ZakirShaik&color=blue&style=flat" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=3000&color=4493f8&size=50&center=true&vCenter=true&height=70&width=600&lines=Hey%2C+I'm+Zakir.;Thanks+for+visiting+my+profile+%3A)" alt="Hello I am Zakir"></img>
