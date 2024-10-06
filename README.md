@@ -1,7 +1,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZakirShaik?style=social"> &nbsp;&nbsp; <img alt="Zakir profile visitors | Count Views" src="https://komarev.com/ghpvc/?username=ZakirShaik&color=blue&style=flat" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=3000&color=A020F0&size=50&center=true&vCenter=true&height=70&width=600&lines=Hey%2C+I'm+Zakir.;Thanks+for+visiting+my+profile+%3A)" alt="Hello I am Zakir"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=3000&color=4493f8&size=50&center=true&vCenter=true&height=70&width=600&lines=Hey%2C+I'm+Zakir.;Thanks+for+visiting+my+profile+%3A)" alt="Hello I am Zakir"></img>
 </div>
 <!--More fonts for above text: Caveat, Orbitron, Kaushan Script, -->
 <!--
@@ -14,11 +14,11 @@
 
 <!--## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> Some Stats-->
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icon=true&hide_border=true&theme=midnight-purple" alt="zakir-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&show_icons=true&hide_border=true&theme=midnight-purple" alt="zakir-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icon=true&hide_border=true&theme=algolia" alt="zakir-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&show_icons=true&hide_border=true&theme=algolia" alt="zakir-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ZakirShaik&theme=midnight-purple&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ZakirShaik&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Let's connect
