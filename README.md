@@ -14,22 +14,15 @@
 
 <!--## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> Some Stats-->
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icon=true&theme=midnight-purple" alt="zakir-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&layout=compact&show_icon=true&theme=midnight-purple" alt="zakir-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icon=true&hide_border=true&theme=midnight-purple" alt="zakir-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&layout=compact&show_icon=true&hide_border=true&theme=midnight-purple" alt="zakir-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ZakirShaik&theme=midnight-purple&background=0d1117&hide_border=true" />
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Let's connect
 <p align="center">
-  <a href="mailto:skz.zakir@gmail.com" >
-    <img align="center" alt="Zakir GMail | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/zakirshaik/" target="_blank">
-    <img align="center" alt="Zakir Linkedin | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;  
+  <a href="https://www.linkedin.com/in/zakirshaik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:skz.zakir@gmail.com?subject=Hello%20Zakir"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <p> 
