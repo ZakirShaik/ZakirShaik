@@ -1,18 +1,18 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZakirShaik?style=social"> &nbsp;&nbsp; <img alt="Zakir profile views | Count Views" src="https://komarev.com/ghpvc/?username=ZakirShaik&color=blue&style=flat" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=3000&color=1576F7&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey%2C+I'm+Zakir.;Nice+to+meet+you+%3A)" alt="Hello I am Zakir"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=3000&color=1576F7&size=50&center=true&vCenter=true&height=70&width=600&lines=Hey%2C+I'm+Zakir.;Nice+to+meet+you+%3A)" alt="Hello I am Zakir"></img>
 </div>
 <!--More fonts for above text: Caveat, Orbitron, Kaushan Script, -->
-
-- :office_worker: I'm a Senior Software Engineer at **CVS Health**
+<!--
+- :office_worker: I'm a Senior Software Engineer at ****
 - :books: I did **Master's in Computer Science** at **University of North Texas, Denton**
-- :earth_asia: I'm a **Canadian Permanent Resident** living in the **United States**
+- :earth_asia: I'm a **** living in the **United States**
 - :sunglasses: My quote: ***"In a day, when you don't come across any problems, then you can be sure that you are travelling in a wrong path."*** 
-- :ok_hand: Fun fact: I visited my home Canada more number of times in my dream than in reality.😄
+- :ok_hand: Fun fact: 😄
+-->
 
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> Some Stats
+<!--## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> Some Stats-->
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icon=true&theme=midnight-purple" alt="zakir-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&layout=compact&show_icon=true&theme=midnight-purple" alt="zakir-stats"/>
