@@ -18,7 +18,7 @@
   <!--LANGUAGES-->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakirShaik&layout=compact&show_icons=true&hide_border=true&theme=algolia" alt="zakir-langs"/>
   <!--STATS-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&count_private=true&hide_border=true&theme=algolia" alt="zakir-stats"/>   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ZakirShaik&count_private=true&include_all_commits=true&hide_border=true&theme=algolia" alt="zakir-stats"/>   
 </div>
 
 
